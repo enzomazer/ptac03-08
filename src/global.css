@@ -1,8 +1,10 @@
 header{
     height: 50px;
-    background-color: #6106ff;
+    color: white;
+    background-color: #392955;
 }
 footer{
     height: 100px;
-    background-color: #ff0606;
+    color: white;
+    background-color: #5e2b2b;
 }
