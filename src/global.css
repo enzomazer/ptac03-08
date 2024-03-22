@@ -1,8 +1,15 @@
-html{
-    background-color: grey;
-
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+#cabecalho {
+    margin: 0;
+    padding: 0;
 }
 header{
+    margin: 0;
+    padding: 0;
     height: 50px;
     color: white;
     background-color: #392955;
@@ -12,4 +19,11 @@ footer{
     height: 100px;
     color: white;
     background-color: #5e2b2b;
+}
+#dados {
+    background-color: green;
+    display: flex;
+}
+main{
+    background-color: blue;
 }
