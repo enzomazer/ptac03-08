@@ -1,7 +1,12 @@
+html{
+    background-color: grey;
+
+}
 header{
     height: 50px;
     color: white;
     background-color: #392955;
+
 }
 footer{
     height: 100px;
