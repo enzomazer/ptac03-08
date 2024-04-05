@@ -34,6 +34,11 @@ export default function telefone(){
                                         <p>{nome}: {telefone}</p>
                                 </label>
                         </div>
+                        {listacontatos.map((contato, index)=>
+                        <div key={index}>
+                                <p>{contato.nomeSalvo}</p>
+                        </div>
+                        )}
                 </main>
         );
     }
